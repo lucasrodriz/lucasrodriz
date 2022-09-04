@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Há 10 anos na área de tecnologia, comecei pelo (finado) Curso de Informática Básica, seguido pelo Montagem e Manutenção de Computadores (Hardware ♥), passei pelo Ensino Médio Técnico em Informática, graduação em Ciência da Computação e pós em Engenharia de Software.
+
+Desenvolvedor Full Stack, aspirante a UX Designer e amante de desafios SQL.
+
+Atualmente Consultor de Implantação ADVPL no seguimento de Logística.
+
+
 <!--
 **lucasrodriz/lucasrodriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
